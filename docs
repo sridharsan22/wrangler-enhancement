@@ -1,4 +1,0 @@
-# Prompts Used for Wrangler Enhancement Project
-1. How to modify Directives.g4 to include new BYTE_SIZE and TIME_DURATION tokens?
-2. Steps for implementing a custom directive in CDAP Wrangler.
-3. Best practices for writing unit tests for parser-based projects.
